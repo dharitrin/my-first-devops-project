@@ -1,1 +1,5 @@
 "#My Learning Notes" 
+"##Git commands I learned" 
+"#git add - stage changes" 
+"#git commit - saves the changes" 
+"#git push - pushes from local to Github" 
